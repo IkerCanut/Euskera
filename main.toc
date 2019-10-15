@@ -3,3 +3,4 @@
 \contentsline {section}{\numberline {3}Pertsona-Izenordainak}{5}% 
 \contentsline {section}{\numberline {4}Leku-Adberbioak}{6}% 
 \contentsline {section}{\numberline {5}Atzizkiak}{7}% 
+\contentsline {section}{\numberline {6}Preguntas}{8}% 
