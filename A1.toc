@@ -1,7 +1,0 @@
-\contentsline {section}{\numberline {1}Aditzak}{3}% 
-\contentsline {section}{\numberline {2}Erakusleak}{4}% 
-\contentsline {section}{\numberline {3}Pertsona-Izenordainak}{5}% 
-\contentsline {section}{\numberline {4}Leku-Adberbioak}{5}% 
-\contentsline {section}{\numberline {5}Atzizkiak}{6}% 
-\contentsline {section}{\numberline {6}Zenbakiak}{7}% 
-\contentsline {section}{\numberline {7}Preguntas}{8}% 
