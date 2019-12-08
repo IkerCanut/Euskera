@@ -1,4 +1,4 @@
-\documentclass[12pt, a4paper]{article}
+\documentclass[10pt, a4paper, landscape]{article}
 \usepackage[left=2.5cm, right=2.5cm, top=3.5cm, bottom=2cm]{geometry}
 \usepackage{multirow}
 \usepackage{multicol}
@@ -13,21 +13,36 @@
 \large{IZAN \\ UKAN\\}
 }
 \maketitle
-\newpage
 
 \newpage
-
 \begin{center}
-\begin{tabular}{|m{1em}|m{1em}| c | c | c | c |}
+\begin{tabular}{|m{1em}|m{1em} | c | c c c c c c c | c c c c c c c c | c c c c c c |}
 \hline
-        & & NOR & NOR - NORI & NOR - NORK & NOR - NORI - NORK \\
-        \hline
-        \multirow{2}{*}{\rotatebox{90}{INDICATIVO }}
-        &\rotatebox{90}{PRESENTE }& \makecell{naiz \\haiz \\da \\gara \\zara \\zarete \\dira } & \begin{tabular}{c c c c c} NA & tzai && T & \\HA & tzai && K / N & \\&zai&&O&\\GA&tzai&zki&GU&\\ZA&tzai&zki&ZU&\\ZA&tzai&zki&ZUE&te\\&zai&zki&E&\\ \end{tabular} & & \\
-\cline{2-6}
-        &\rotatebox{90}{PASADO }& \makecell{nintzen \\hintzen \\zen \\ginen \\zinen \\zineten \\ziren } & \begin{tabular}{c c c c c c} NIN&tzai&&&DA&n\\HIN&tzai&&&A/NA&n\\ZI&tzai&&&O&n\\GIN&tzai&zki&&GU&n\\ZIN&tzai&zki&&ZU&n\\ZIN&tzai&zki&te&ZUE&n\\ZI&tzai&zki&&E&\\ \end{tabular} &\makecell{nuen\\huen\\zuen\\genuen\\zenuen\\zenuten\\zuten}\makecell{nituen\\hituen\\zituen\\genituen\\zenituen\\zenituzten\\zituzten} & \\
-        \hline
-    \end{tabular}
+& & NOR & \multicolumn{7}{c |}{NOR-NORI} & \multicolumn{8}{c |}{NOR-NORK} & \multicolumn{6}{c |}{NOR-NORI-NORK}\\
+\hline
+\multirow{14}{*}{\rotatebox{90}{INDICATIVO }} 
+&\multirow{7}{*}{\rotatebox{90}{PRESENTE }}
+&naiz&&NA&tzai&&T&&&NK&&&&&&&&NIK&&&&&\\
+&&haiz&&HA&tzai&&K/N&&&NK&&&&&&&&NIK&&&&&\\
+&&da&&&zai&&O&&&NK&&&&&&&&NIK&&&&&\\
+&&gara&&GA&tzai&zki&GU&&&NK&&&&&&&&NIK&&&&&\\
+&&zara&&ZA&tzai&zki&ZU&&&NK&&&&&&&&NIK&&&&&\\
+&&zarete&&ZA&tzai&zki&ZUE&&te&NK&&&&&&&&NIK&&&&&\\
+&&dira&&&zai&zki&E&&&NK&&&&&&&&NIK&&&&&\\
+\cline{2-24}
+&\multirow{7}{*}{\rotatebox{90}{PASADO }}
+&nintzen&&NIN&tzai&&&DA&n&NK&&&&&&&&NIK&&&&&\\
+&&hintzen&&HIN&tzai&&&A/NA&n&NK&&&&&&&&NIK&&&&&\\
+&&zen&&ZI&tzai&&&O&n&NK&&&&&&&&NIK&&&&&\\
+&&ginen&&GIN&tzai&zki&&GU&n&NK&&&&&&&&NIK&&&&&\\
+&&zinen&&ZIN&tzai&zki&&ZU&n&NK&&&&&&&&NIK&&&&&\\
+&&zineten&&ZIN&tzai&zki&te&ZUE&n&NK&&&&&&&&NIK&&&&&\\
+&&ziren&&ZI&tzai&zki&&E&n&NK&&&&&&&&NIK&&&&&\\
+\hline
+
+\end{tabular}
 \end{center}
+
+
 
 \end{document}
