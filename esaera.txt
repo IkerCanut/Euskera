@@ -1,0 +1,599 @@
+
+    A ze parea, karakola ta barea!.
+        Traducción: "Menudo par, el caracol y limaco (la babosa)"
+    Abadearen lapikoa, txikia baino gozoa.
+        Traducción: "La olla del abad, pequeña pero sabrosa."
+    Abendua jai huts eta gau huts.
+        Traducción: "Diciembre (es) todo fiesta y todo noche."
+    Abenduko eguna, argitu orduko iluna.
+        Traducción: "El día de diciembre, para cuando clarea (ya está) oscuro."
+    Aberats izatea baino, izen ona hobe.
+        Traducción: "Mejor que ser rico, tener buena reputación."
+    Aberatsa tranpa hutsa, pobrea amets hutsa.
+        Traducción: "El ríco (es) todo trampa, el pobre (es) todo sueños".
+    Adiskide onekin orduak labur.
+        Traducción: "Con los buenos amigos/as las horas (son/se hacen) cortas."
+    Adiskidegabeko bizitza, auzogabeko heriotza.
+        Traducción: "Una vida si amigos, es una muerta sin compañeros."
+    Aditu nahi ez duenak, ez du esan behar.
+        Traducción: "El que no quiere escuchar (cosas desagradables), no debe decir (cosas desagradables)."
+    Aditzaile onari, hitz gutxi.
+        Traducción: "Al buen entendedor, pocas palabras."
+    Ahoa zabal, logale edo gose.
+        Traducción: "Boca abierta, sueño o hambre".
+    Aldi joana ez da itzultzen.
+        Traducción: "El momento pasado jamas vuelve".
+    Alferrarentzat jana eta langilearentzat lana ez da inoiz faltako.
+        Traducción: "Nunca faltará comida para el vago ni trabajo para el trabajador."
+    Agindua zorra, esan ohi da."
+        Traducción: "Lo prometido es deuda, suele decirse."
+    Aita biltzaile, seme gastatzaile.
+        Traducción: "Padre ahorrador, hijo gastador".
+    Aldi luzeak, guztia ahaztu.
+        Traducción: "Los largos tiempos, lo hacen olvidar todo."
+    Alfer egon eta alfer-lana egin, biak berdin.
+        Traducción: "Estar holgazaneando y realizar un trabajo en vano, ambos la misma cosa."
+    Alferkeria, askoren ondamendia.
+        Traducción: "La pereza, ruina de muchos."
+    Alferrak, beti lanez beterik.
+        Traducción: "Los perezosos, siempre repletos de trabajo."
+    Alferrarentzat jana eta langilearentzat lana ez da inoiz faltako.
+        Traducción: "Nunca faltarán para el vago la comida y para el trabajador el trabajo".
+    Alferrarendako lanik ez, eta astirik ez.
+        Traducción: "Para los perezosos ni hay trabajo, ni momento oportuno."
+    Alferrik da ura joanda gero presa egitea.
+        Traducción: "Es en vano hacer la presa después de irse el agua."
+    Amari egindako zorrak ez dira inoiz ordaintzen.
+        Traducción: "Las deudas contraidas con una madre, son impagables".
+    Amen, zu hor eta ni hemen.
+        Traducción: "Amén, tu ahí y yo aquí".
+    Ametsa gogoaren igandea.
+        Traducción: "Un sueño es un domingo de la voluntad".
+    Ametsik gabeko bizia, izarrik gabeko gaua.
+        Traducción: "Una vida sin sueños, (es como) una noche sin estrellas".
+    Apaizak eta praileak, hegal gabeko beleak.
+        Traducción: "Curas y frailes, cuervos sin alas".
+    Apaizaren lapikoa, txikia baina gozoa.
+        Traducción: "La olla del cura, pequeña pero sabrosa".
+    Apirilaren azkenean, hostoa haritz gainean.
+        Traducción: "Al final de abril, las hojas florecen en los robles".
+    Ardi galdua atzeman daiteke, aldi galdua berriz ez.
+        Traducción: "Se puede encontrar una oveja perdida, no así un momento perdido".
+    Ardi txikia, beti bildots
+        Traducción: "La oveja pequeña, siempre (sera un) cordero."
+        Equivalente en castellano: "La mona aunque se vista de seda, mona se queda."
+    Arian, arian, zehetzen da burnia.
+        Traducción: "Forjandolo, forjandolo, se doblega al hierro."
+    Ardoa: Nafarroako bikarioa.
+        Traducción: "El vino: El vicario de Navarra".
+    Ardo gozoak lau begi eta oinik ez.
+        Traducción: "El vino dulce tiene cuatro ojos y ningún pie".
+    Arrats gorri, goiz euri.
+        Traducción: "Atardecer rojizo, amanecer lluvioso".
+    Arribe eta Atallo: urre gorrizko bataio.
+        Traducción: "Arribe y Atallo: bautizo de oro rojizo".
+    Arrotz-herri, otso-herri.
+        Traducción literal: "País extranjero, país de lobos."
+        Traducción: "País/pueblo extraño, (estas/estais en) país/pueblo adversario."
+    Aseak gosea ezin ikus.
+        Traducción: "La saciedad no puede ver al hambre."
+    Aski ez duena, deusik ez duena.
+        Traducción: "El que no tiene suficiente, (es porque) no tiene nada."
+    Asko balio du indarrak, gehiago buru azkarrak.
+        Traducción: "Mucho vale la fuerza más una cabeza inteligente."
+    Asko egin bai, gutxi egin bai.
+        Traducción literal: "A que hago mucho, a que hago poco".
+        Equivalente castellano: "Mucho hablar y poco hacer".
+    Askoren mina, tontoen atsegina.
+        Traducción literal: "Dolor de muchos, placer de tontos."
+        Equivalente castellano: "Mal de muchos, consuelo de tontos.""
+    Astoa, zaldiz jantzi arren, beti asto.
+        Traducción: "El burro, aunque lo vistas de caballo, siempre sera un burro.
+    Astarrak umea egingo dik hi mugitzerako!
+        Traducción literal: "¡El burro parira antes de que te muevas!"
+
+        Equivalente castellano: "¡El infierno se congelara antes de que te muevas!"
+        Equivalente castellano: "¡Los cerdos volarán antes de que te muevas!"
+    Astigarreta: eguzkia atera orduko erreta, euria hasi orduko erreka.
+        Traducción: "Astigarreta: abrasado tan pronto como sale el sol, inundado tan pronto como llueve".
+    Astoak mandoari belarri luze."
+        Traducción: "El burro a la mula le llama orejudo".
+    Asko baduk/n, asko beharko duk/n.
+        Traducción: "Si tienes mucho, necesitaras mucho."
+    Ataunen eta Zegaman, egunez ikusi eta gauez eraman.
+        Traducción: "En Ataun y Zegama, observan de día y roban de noche".
+    Aurreak erakusten du atzea nola dantzatu.
+        Traducción: "El/La delantera/o enseña al (a la) trasero/a como bailar"
+    Auziaren ondoren, galtzen duena larru gorrian eta irabazten duena alkondara hutsean.
+        Traducción: "Tras la disputa, el perdedor se queda en cueros vivos y el ganador con una triste camisa".
+    Azaroa hotz, negua motz. Azaroa bero, negua gero.
+        Traducción: "Noviembre frío, el invierno corto. Noviembre caliente/caluroso, el invierno luego."
+    Azeriak, isatsa luze
+        Traducción literal: "El zorro, (tiene) la cola larga"
+        Equivalente castellano: "Más sabe el diablo por viejo que por diablo".
+    Azkar eta ondo usoak egiten du hegan.
+        Traducción literal: "La paloma vuela bien y rapido".
+        Equivalente castellano: "Mas sabe el zorro por viejo que por zorro".
+
+B
+
+    Bakoitzak berea, Jainkoaren legea.
+        Traducción: "Cada uno lo suyo, la ley de Dios"
+    Bakoitzak bere astoari egiten dio arre.
+        Traducción literal: "Cada uno arrea a su propio burro".
+        Equivalente en castellano: "Cada uno lidia con sus problemas."
+    Bakoitzak bere zoroa bizi du.
+        Traducción: "Cada uno vive su propia locura".
+        Equivalente en castellano: "Cada uno tiene su propia situación/mundo."
+    Balantza duen aldera erortzen da arbola.
+        Traducción: "El árbol suele caerse al lado al que se balancea."
+    Balizko esnearekin ezin gosaldu.
+        Traducción: "Con leche valiosa no se puede desayunar".
+        Equivalente en castellano: "No esta hecha la miel para los burros".
+    Baino! Euria denean laino.
+        Traducción: ¡Pardiez! Cuando llueve (esta) nublado".
+    Baratxuria, zazpi gaitzen kontrako janaria.
+        Traducción: "El ajo, comida contra siete males."
+    Bat eman eta bi hartu.
+        Traducción literal: "Dar una y tomar dos."
+        Equivalente a castellano: "Dar la mano y coger el brazo."
+    Bat esan eta bestea egin, nola asmatu horrelakoekin?
+        Traducción: "Decir una cosa y hacer otra, ¿Como acertar con gente así?
+    Begi bat aski du saldunak eta ehun ez ditu sobera erostunak.
+        Traducción: "Al vendedor solo le es necesario un ojo y al comprador le faltan cien".
+        Equivalente en castellano "Dar gato por liebre".
+    Beldur denaren ezpatak punta motz.
+        Traducción: "La espada del pusilánime tiene la punta corta"
+        Equivalente en castellano: "No se hizo el mundo por cobardes".
+    Beltz guztiak ez dira beleak.
+        Traducción: "No todo los negro son cuervos"
+    Berandu jaikitzen bazara, eguneko lanak atzera.
+        Traducción: "Si te despiertas tarde, los quehaceres diarios se atrasan".
+        Equivalente en castellano: "Dios ayuda al que madruga".
+    Bere etxe pobrea, erregerena baino hobea.
+        Traducción: "El nacido en casa pobre, esta en la propia mejor que en la del rey"
+    Besteen faltak aurreko aldean, geureak bizkarrean.
+        Traducción literal: "Las faltas ajenas ante nosotros, las nuestras a nuestra espalda".
+        Equivalente en castellano: "Ver la paja en ojo ajeno pero no ver la viga el propio ojo".
+    Beste lekuetan ere txakurrak oinutsik ibiltzen dira.
+        Traducción: "En otros lugares los perros también andan descalzos"
+        Equivalente en castellano: "El sol calienta por igual en todas partes"
+    Besteren akatsak ikusteko ez da betaurreko beharrik."
+        Traducción: "Para ver los errores ajenos no se necesitan gafas."
+    Besteren ama, ona; norberea, askoz hobea.
+        Traducción: "La madre de los demás, (es) buena, la propia la mejor."
+        Equivalente en castellano: "Alabate burro, que nadie te alabará".
+    Betelu: deabru guztien ikuilu.
+        Traducción: "Betelu: cuadra/establo de todos los demonios/diablos."
+    Beti jan eta beti mehe, demonio lepome!
+        Traducción: "Siempre comiendo y siempre delgado, ¡Demonio de fino cuello!
+    Biak uztarrian jartzeko modukoak!
+        Traducción: "Los dos estan como para ponerlos bajo un yugo."
+        Equivalente en castellano: "¡Tal para cual!""¡Vaya par!", "¡Vaya par de ases!", "El duo sacapuntas"...
+    Biboa uste eta baboa izan.
+        Traducción: "Se creía vivo y era imbecil."
+    Bihar ere eguzkia aterako duk.
+        Traducción: "Mañana también saldra el sol"
+        Equivalente en castellano: "Mañana sera un nuevo día"
+        Equivalente en castellano: "Despues de la tormenta, viene la calma."
+    Bista ona eta elkar ezin ikusi.
+        Traducción: "Tienen buena vista y no se pueden ni ver."
+    Bostak eta iluna, txerria hiltzeko eguna.
+        Traducción: "Las cinco y es oscuro, dia de matar al cerdo."
+        Explicación: Los cerdos en Euskal Herria se matan por el día San Martín, en otoño, cuando empieza a oscurecer hacia las cinco de la tarde.
+    Bost xentimoko pupua eta hamar xentimoko trapua.
+        Traducción: "Una herida de cinco centimos y una venda de diez céntimos."
+        Equivalente en castellano: "Demasiada venda para tan poca herida".
+    Burdina berotan jo behar da.
+        Traducción: "Al hierro ha de golpearsele en caliente."
+    Bururik ez duenak, hankak ibili behar.
+        Traducción: "El que no tiene cabeza, solo le queda andar."
+        Equivalente el castellano: "El que no vale, no vale".
+
+D
+
+    Dagoenean bon bon, ez dagoenean egon.
+        Variante: Dagoenenan bon bon, ez dagoenean hor konpon.
+        Traducción: "Cuando hay, muy bien; cuando no hay, aguantarse."
+    Dagoenean par-par, ez dagoenean negar.
+        Traducción: "Cuando hay, de jauja, cuando no hay, a llorar."
+    Dezagun gutxi dezagun beti.
+        Traducción: "Lo poco que hagamos hagámoslo siempre."
+    Diruak malkarrak zelaitzen.
+        Traducción: "El dinero allana las cuestas"
+        Equivalente en castellano: "El dinero abre todas las puertas."
+    Dirua morroi ona, baina nagusi txarra.
+        Traducción: "El dinero [es] un buen siervo, pero un mal amo."
+
+E
+
+    Egia egi, ogia ogi, ardaua ardau, bi ta bi lau.
+        Traducción: "La verdad es verdad, el pan es pan, el vino es vino, dos mas dos son cuatro"
+        Equivalente en castellano: "Al pan pan y al vino vino."
+        Equivalente en castellano: "Ir con la verdad por delante."
+    Egia eta fedea, Ezkurrako legea.
+        Traducción: "La verdad y la fe, la ley de Ezkurra.
+    Egiak ez ditu bi bide.
+        Traducción: "La verdad no tiene dos caminos".
+        Equivalente en castellano: "La verdad tienen solo un camino".
+    Egintzak lo eta jango dek mehe, izan arren bi neskame."
+        Traducción: "No te espabiles y comeras fino, aunque tengas dos sirvientas."
+        Equivalente en castellano: "Dormirse en los laureles".
+    Eguerdiko euria, egun guztiko euria.
+        Traducción: "Lluvia de mediodía, lluvia para todo el día."
+    Eguneroko izerdia, eguneroko ogia.
+        Traducción: "El sudor diario, (es) el pan diario."
+    Egon hadi lo eta jango duk mehe
+        Traducción literal: "Estate dormido y comeras fino/poco."
+        Equivalente castellano: "Aquí el que no corre, vuela".
+        Equivalente castellano: "Espabila o te comeran el bocadillo."
+    Egur zaharra, su txarra.
+        Traducción: "Leña vieja, fuego malo."
+    Eguzkia eta euria, erromako zubia.
+        Traducción: "El sol y la lluvia, (traen) el puente de Roma (el arco iris)".
+    Eguzki bera on eta gaiztoentzat.
+        Traducción: "El sol es el mismo para los buenos y los malos."
+    Eguzki eta euri, martxoko eguraldi.
+        Traducción: sol y lluvia, el tiempo de marzo."
+    Elur melur, ez nauk hire beldur, etxean badiat nahiko arto eta egur.
+        Traducción: "Nieve nievecita, no te temo, en casa tengo suficiente maíz y leña."
+    Enbidiosoa, bere etsai osoa.
+        Traducción: "La envidia, era su propia enemiga."
+    Entzun eta isil, baiezko borobil.
+        Traducción: "Escuchar y callar, afirmación total."
+        Equivalente en castellano: "El que calla, otorga."
+    Eroriz ikasten da oinez.
+        Traducción: "Cayendo se aprende a andar."
+    Errementariaren etxean zotza nagusi.
+        Traducción: "En casa del herrero, cuchillo de palo."
+    Errezil: nekez jaio eta errez hil.
+        Traducción: "Errezil: donde se nace fatigosamente y muere facil."
+    Esandako hitzak lotzeko ez duzu giltzarik topatuko.
+        Traducción: "No hallarás llave que logre unir tus palabras pronunciadas."
+    Eskerrik asko, Mari Belasko! Okela gutxi eta salda asko.
+        Traducción: "Gracias, Mari Belasko! Poca carne y mucho caldo."
+        Equivalente en castellano: "Gracias... por nada".
+    Eskola umeak sasiz sasi, asko jan eta gutxi ikasi.
+        Traducción: "Los niños de escuela (que andan) de zarza en zarza (asilvestrados), comen mucho y estudian poco."
+    Eskuko behatzak ere ez zituen Jainkoak berdinak egin.
+        Traducción: "Dios no hizo iguales ni a los dedos de las manos."
+    Etxarri: lepoa bete txintxarri.
+        Traducción: "Etxarri: el cuello lleno de cencerros."
+        Equivalente: "Tener la cabeza llena de pajaros" / "Ser alocados" (En este caso rima jocosa hecha a los habitantes de Etxarri).
+    Etxean otoitzik ez egiten, eta auzoan meza ematen.
+        Traducción: "No reza en su casa, y da misa en el barrio"
+        Equivalente en castellano: "A Dios rogando y con la maza dando."
+    Etxeko sua etxeko hautsez estali behar da.
+        Traducción: "El fuego de casa hay que taparlo con el polvo de casa."
+        Equivalente en castellano: "Los trapos sucios hay que limpiarlos en familia."
+    Euskara bihotzean baina erdara ezpainean.
+        Traducción: "El euskera en el corazón pero el erdera (castellano, francés...) en los labios."
+    Ez duk larrosik arantza gaberik.
+        Traducción y equivalente castellano: "No hay rosa sin espinas."
+    Ez da horixe atzo goizekoa.
+        Traducción: "No es eso mismo nada nuevo."
+    Ez da ogirik neke gaberik.
+        Traducción: "No hay pan si esfuerzo."
+        Equivalente en castellano: "No hay pan sin sudor."
+    Ez dauka horretxek mingainean herdoilik.
+        Traducción: "Ese mismo no tiene roña en la lengua."
+        Equivalente en castellano: "No tener pelos en la lengua."
+    Ez gehiegi hitz egin, nahi ez bada huts egin.
+        Traducción: "No hables demasiado, si no quieres errar."
+    Ez naiz joaten elizara, maingu naizelako; joaten naiz tabernara, ardoa on zaidalako.
+
+        Traducción: "No voy a la iglesia, porque estoy cojo; voy a la taberna, porque el vino me hace bien."
+    Ezkondu baino lehen, kontu zer egiten den.
+        Traducción: "Antes de casarte, ten cuidado con lo que hagas."
+    Ezkongaietan bero, kontuak gero.
+        Traducción: "De recien casados alegría, después (vienen) las historias."
+    Ezkur urte, elur urte.
+        Traducción: "Año de bellotas, año de nieve."
+        Equivalente en castellano: "Año de nieves, año de bienes."
+
+G
+
+    Gabiri: leku askotatik agiri.
+        Traducción: "Gabiria: a la vista de todos los sitios"
+        Explicación: Gabiria es una localidad situada en una colina.
+    Gaitza, lapur isila.
+        Traducción: "La enfermedad, ladrón silencioso."
+        Equivalente en castellano: "La enfermedad no perdona."
+    Gaitzarentzat ez da adinik.
+        Traducción: "No hay edad para la enfermedad."
+    Gaizki esanak barkatu eta ondo esanak gogoan hartu.
+        Traducción: "Disculpad lo mal dicho y recordad lo bien dicho."
+    Ganorabakoen etxean goizeko salda arratsean.
+        Traducción: "En casa de los irresponsables el caldo de la mañaña (se sirve) al atardecer."
+    Garaipena, neke askoren ondorena.
+        Traducción: "La victoria, el final de muchos desvelos."
+    Gaur egin dezakezuna biharko ez utzi.
+        Traducción: "No dejes para mañana lo que puedas hacer hoy."
+    Gaur hitza eman, bihar haizeak eraman.
+        Traducción literal: "La palabra hoy dicha, mañana se la lleva el viento."
+        Equivalente: "Las palabras se las lleva el viento."
+    Gazteak baleki, zaharrak baleza.
+        Traducción: "El joven si supiera, el viejo si pudiera."
+    Geroa, alferraren leloa.
+        Traducción: "El despues, (es) el lema del vago."
+    Gezurra esan nuen etxean: ni baino lehenago kalean.
+        Traducción: "Dije una mentira en casa y llegó a la calle antes que yo."
+    Gezurra esan nuen Getarian eta ni baino lehenago zen atarian.
+        Traducción: "Dije una mentira en Getaria y llegó antes que yo al portal de mi casa."
+        Equivalente en castellano: "Antes se pilla al mentiroso que al cojo."
+    Gezurrak hanka motzak.
+        Traducción: "La mentira (tiene) piernas cortas."
+    Gezurrak, hankak motzak. /"Gezurrak, buztana labur".
+        Traducción: "La mentira tiene las patas cortas." /"La mentira tiene el rabo corto".
+    Gezurtiak zer duen merezi? Egia esatean ez sinetsi.
+        Traducción: "¿Qué merece el mentiroso? No creerle al decir la verdad."
+    Gilen, bihar hilen, etzi ehortziren, etzidamu ahantziren.
+        Traducción: "Guillermo, mañana moriras, pasado mañana te enterrarán, el día siguiente a pasado mañana te olvidarán."
+    Gizona gizon, katua mixon.
+        Traducción: "El hombre (es) hombre, el gato (es) gatito."
+        Equivalente al castellano: "A lo hecho, pecho."
+    Gizona lepotik gora neurtzen da.
+        Traducción: "Al hombre se mide del cuello para arriba."
+    Goien dagoenak jotzen du kukurruku.
+        Traducción: "El que más arriba se encuentra es el que cacarea."
+        Equivalente en castellano: "Más se rie, el que se rie el último."
+    Goiz gorri, arrats euri.
+        Traducción: "Mañana roja, tarde lluviosa."
+    Goizean porrusalda eta eguerdian azak, aise kabituko zaizkik ipurdian galtzak."
+        Traducción: "A la mañana caldo de puerros y al mediodía berzas, facil te cabran los pantalones en el culo."
+    Goizeko laino gorri, gaueko iturri.
+        Traducción: "Nube del amanecer, fuente del anochecer."
+    Gogoa den tokian, aldaparik ez.
+        Traducción: "Donde hay voluntad, no hay cuestas."
+    Gora gu eta gutarrak!"
+        Traducción: "¡Arriba nosotros y los nuestros!"
+    Goseak begiak argi.
+        Traducción: "El hambre aviva/aguza la vista."
+        Equivalente en castellano: "El hambre aguza el ingenio."
+    Gu ta gu ta gu, azkenean gurugu: besteak irabazi eta guk galdu.
+        Traducción: "Nosotros y nosotros y nosotros, al final nosonosotros: los demas ganan y nosotros perdemos."
+        Equivalente en castellano: "La unión hace la fuerza."
+    Gure katuak buztana luze, besteek hala dutela uste.
+        Traducción: "Nuestro gato (tiene) la cola larga, cree que los demas también la tienen.
+        Equivalente en castellano: "Se cree el fraile que todos son de su aire."
+    Gustuko lekuan aldaparik ez.
+        Traducción: "Si estás agusto no hay cuestas."
+        Equivalente en castellano: "Sarna con gusto, no pica."
+    Gutxi ikasia, beti jakintsu.
+        Traducción: "El poco aprendido, siempre sabiondo."
+        Equivalente en castellano: "Poco saber, mucho hablar."
+    Guztien adiskide dena, ez da inorena.
+        Traducción: "El/La que es amigo/a de todos/as, no es amigo/a de nadie."
+
+F
+
+    "Festak aurrea ederrago du atzea baino."
+
+H
+
+    Haizeak nora, zapiak hara.
+        Traducción: "A donde sople el viento, se agita el pañuelo."
+        Equivalente en castellano: "Arrimarse al sol que más calienta."
+    Haitzean jaioak haitzera nahi.
+        Traducción: "El nacido entre peñas/rocas, tira a las peñas/rocas."
+        Equivalente en castellano: "La cabra siempre tira al monte."
+    Hara bi: zu bat eta beste ni.
+        Traducción: "Vaya par: tu uno y yo otro."
+    Harriak ez du begirik.
+        Traducción: "La piedras no tienen ojos."
+    Hartzaile bizkor, emaile koxkor.
+        Traducción: "El rapido cobrador, (es) mal pagador."
+    Hartzeko pronto eta emateko tonto.
+        Traducción: "Rapido en cobrar y tonto (lento) al pagar."
+    Haundia beti legez, txikia behin ere ez.
+        Traducción: "El que siempre (chulea/va) de grande, nunca se queda pequeño (en sus fanfarronadas)."
+    Hegaztia airerako, gizona lanerako.
+        Traducción: "El ave para el aire, el hombre para el trabajo."
+    Hego haizea, ero haizea.
+        Traducción: "Viento sur, viento de locos."
+    Hi ere inbidia partitu zen mahaian izango hintzen.
+        Traducción: "Tu también estarias presente en la mesa donde se repartió la envidia."
+    Hitza hitz
+        Traducción literal: "La palabra es palabra."
+        Equivalente en castellano: "La palabra dada esta dada."
+    Hitzemana zor.
+        Traducción literal: "La palabra dada es deuda."
+    Hoa antzarrak perratzera!
+        Traducción: "¡Vete a herrar gansos!"
+        Equivalente en castellano: ¡Vete a freir esparragos!
+        Equivalente en castellano: ¡Vete a hervir un huevo!
+    Hobe da bat eskuan, ez bi auzoan.
+        Traducción: "Mejor uno/a en mano, que dos en el barrio."
+        Equivalente en castellano: "Mejor pajaro en mano, que ciento volando."
+    Hobe da oinez eta segurura, eta ez zaldiz eta zulora.
+        Traducción: "Mejor ir a pie y a lo seguro, que a caballo y al hoyo."
+    Hor konpon, Marianton!
+        Traducción: "¡Ahí te las compongas, muchachote!"
+
+I
+
+    Uztarria erosi, idiak erosi aurretik.
+        Traducción: "Comprar el yugo, antes de comprar los bueyes."
+
+    Ibiltari gauean, logale goizean.
+        Traducción: "Parrandero de noche, sueño a la mañana."
+        Equivalente en castellano: "Noches alegres, mañanas tristes".
+    Idiazabal: zeruko ateak zabal.
+        Traducción: "Idiazabal: la puerta celestial abierta."
+    Ilargi eta laino, sorginentzat giro.
+        Traducción: "Luna y niebla, ambiente de brujas."
+    Ilea zuritzea hobe da burua baino.
+        Traducción: "Ez mejor que se emblanquezca (palidezca) el pelo que la cabeza (rostro)."
+    Inor ez da ikasia jaiotzen.
+        Traducción: "Nadie ha nacido sabido/docto."
+    Isilik dagoenak ez dio gezurrik.
+        Traducción: "El que esta callado no miente".
+        Equivalente en castellano: "En boca cerrada no entran moscas."
+    Isilik oiloak pixa egin arte!
+        Traducción: "¡Callado/s hasta que la gallina mee!"
+        Equivalente en castellano: ¡Chitón!
+    Izena duena, da.
+        Traducción: "Lo que tiene nombre, existe."
+    Izenetik izanera gogoa zubi.
+        Traducción: "Del nombre al ser hay un puente."
+        Equivalente en castellano: "Del dicho al hecho hay un trecho."
+
+J
+
+    Janda lo ta potolo.
+        Traducción: "Come y duerme y gordito (engordaras)."
+    Jainkoa: bat eta bera nahikoa.
+        Traducción: Dios, unico y el suficiente."
+    Jainkoa: gauza guztien gainekoa.
+        Traducción: "Dios: el que esta por encima de todas las cosas."
+    Jaten duten santuekin ez dago fidatzerik.
+        Traducción: "No se puede fiar con los santos que comen."
+    Jesus, Maria eta Jose: beti jan eta neti gose.
+        Traducción: "Jesus, Maria eta Jose: siempre comiento y siempre de hambre."
+
+K
+
+    Kalean uso, etxean otso.
+        Traducción: "Paloma en la calle, lobo en casa."
+        Equivalente en Castellano: "Candil de la calle, oscuridad de su casa"
+    Kanpaia nahi ez duenak aditu, ez dezala soka mugitu.
+        Traducción: "El que no quiera escuchar la campana, que no mueva la cuerda."
+    Katurik ez dagoen etxean saguak dantzan.
+        Traducción: "En la casa donde no hay gatos los ratones bailan."
+    Lanik errazena, agintzea.
+        Traducción: "El trabajo más facil, mandar."
+    Lan lasterra, lan alferra.
+        Traducción: "El trabajo rápido, trabajo valdío."
+    Lehen hala, orain hola, gero ez jakin nola.
+        Traducción: "Antes así, ahora asau, luego quien sabra."
+    Lurrak hazi eta lurrak jan.
+        Traducción: "La tierra lo cría y la tierra se lo come."
+        Equivalente en castellano: "De la tierra venimos y a la tierra vamos."
+        Equivalente en castellano: "Polvo eres y en polvo te convertiras."
+    Maria: Orion trumoia eta Markinan euria.
+        Traducción: "Maria (Diosa de la Mitología Vasca): Trueno en Orio y lluvia en Markina."
+    Marinelaren emaztea, goizean senardun, arratsean alargun.
+        Traducción: "La esposa del marinero, esposada a la mañana, viuda al atardecer."
+    Medikuak gorputza garbitu, apaizak arima, abokatuak poltsa.
+        Traducción: "El médico te limpia el cuerpo, el cura el alama, el abogado el bolsillo."
+    Munduan hiru gauza galtzen dira alferrik: pobrearen arrazoia, mendiko egur igarra eta alferraren indarra.
+        Traducción: "En el mundo se desperdician tres cosas: la razón del pobre, la buena madera del monte y la fuerza del vago."
+    Munduan nahi duenak luzaroan bizi, oiloekin ohera eta txoriekin jaiki.
+        Traducción: "El que quiera vivir largamente en este mundo, que se vaya a la cama con el gallo y se despierte con los pajaros."
+
+N
+
+    Non gogoa, han zangoa.
+        Traducción literal: "Donde (está) la voluntad, allí (va) el pie."
+        Equivalente castellano: "Donde el corazón se inclina, el pie camina."
+    Non nire gogoa, han nire zangoa.
+        Traducción literal: "Donde este mi voluntad, allí (estare yo) mi pie."
+    Nola soinu, hala dantza.
+        Traducción: "De como sea el sonido, así sera la danza".
+
+O
+
+    Osasuna munduko ondasuna.
+        Traducción: "La salud (es) la riqueza del mundo."
+    Otsoak ere ez du bere haragirik jaten.
+        Traducción: "Ni el lobo come de su propia carne."
+    Ogi gogorrari hagin zorrotza.
+        Traducción: "Al pan duro, comillo afilado."
+        Equivalente: "Al mal día, buena cara."
+    Oiartzun: pareta zaharrak erantzun.
+        Traducción: Oiartzun: respuesta de paredes viejas."
+    Oinezkorik nahi ez, zaldikorik etorri ez.
+        Traducción: "No querer andar a pie, no venir nadie a caballo."
+    On egin deizuela janak eta kalterik ez edanak.
+        Traducción: "Que os haga bien la comida y ningún mal la bebida."
+    Ongi eginez gero loa, osasuna ongi doa.
+        Traducción: "Al dormir bien, la salud va bien."
+
+P
+
+    Pekatu arina norberak egina.
+        Traducción: "Pecado leve es aquel el que uno mismo comete."
+    Penaren karameloa, esperantza.
+        Traducción: "El caramelo de la pena, (es) la esperanza."
+
+S
+
+    Santa Luzi: gaua moztu eta eguna hazi.
+        Traducción: (El día de) Santa Lucia: las noches (se) acortan y los dias (se) alargan."
+    Sasiak entzuna bitik bat gezurra.
+        Traducción: "De dos cosas que escucha el zarzal, una es mentira."
+    Segura: asko hil eta gutxi zerura.
+        Traducción: "Segura: mueren muchos y pocos van al cielo."
+    Sosa duenak kontatu, poza duenak kantatu.
+        Traducción: "El que tiene dinero que lo cuente, el que tenga alegría que cante."
+    Sua eta ura belaunetik behera.
+        Traducción: "El fuego y el agua (mejor) de rodilla para abajo."
+
+T
+
+    Txantxangorriak baino buru behiago ez dik horrek.
+        Traducción: "Ese tiene menos cabeza que un petirrojo."
+        Equivalente en castellano: "No tiene dos dedos de frente."
+    Txapel batekin bi buru ezin estali.
+        Traducción: "No poder cubrir dos cabezas con una txapela."
+        Equivalente en castellano: "Hacer de su capa un sayo."
+    Txapela buruan eta ibili munduan.
+        Traducción: "Con la txapela en la cabeza y anda por el mundo."
+    Tximinoa arbolan gorago, haren ipurdia ageriago.
+        Traducción: "Cuanto más sube un mono por el árbol, más al descubierto esta su culo."
+        Equivalente en castellano: "Cuanto más habla un tonto, más tonto parece."
+    Tximist haundi eta euri gitxi.
+        Traducción: "Rayo/Relampago grande y poca lluvia."
+        Equivalente en castellano: "Mucho ruido y pocas nueces."
+    Txoriak ere duen hainbat odol ematen du.
+        Traducción: "El pajaro también da toda la sangre que tiene."
+    Txurrut bat, txurrut bi; konturatzeke zilipurdi.
+        Traducción: "Un trago, dos tragos; para cuando te has dado cuenta (das una) voltereta."
+
+U
+
+    Urrea esan eta urria eman.
+        Traducción: "Perdir dinero y dar octubre."
+        Explicación: Juego de palabras entre Urrea (Oro) y Urria (Octubre).
+        Equivalente en castellano: "Pedir esto y darte lo otro."
+
+    Urruneko eltzea urrez, gerturatu orduko lurrez.
+        Traducción: "La hoya lejana llena de oro, tan pronto que nos acercamos (esta llena de) tierra."
+
+    Urrutiko intxaurrak hamalau, gerturatu ta lau.
+        Traducción: "Las nueces de lejos (parecen) catorce; acercarse y (hay) cuatro."
+
+    Urte askoan txapela kaskoan.
+        Traducción: "Por muchos años con la txapela sobre la cabeza."
+
+    Usteak erdia ustel.
+        Traducción: "Las creencias no son certezas."
+
+    Utzi bakean, bakean dagoenari.
+        Traducción: "Deja(d) en paz, al que esta en paz."
+
+Z
+
+    Zaharrari azkar joateko eta haurrari geldi egoteko esatea berdin da.
+        Traducción: "Es lo mismo decir a un viejo que vaya rápido, que a un niño que se esté quieto."
+    Zaldia joan ta mando etorri.
+        Traducción: "Irse caballo y volver mula."
+        Equivalente en castellano: "Ir por lana y venir trasquilado."
+    Zakurrik onena etxekoa, emaztea auzokoa.
+        Traducción: "El mejor perro el de casa; la mejor esposa, la del vecino"
+    Zapata zuriak paperez, euria denean batere ez."
+        Traducción: "De zapatos blancos de papel, cuando llueve no queda nada".
+    Zein haginetan den mina, han da mihina.
+        Traducción: "En el diente en que hay dolor, ahí está la lengua".
+    Zenbat eta ipurdia gorago, orduan eta burua beherago.
+        Traducción: "Cuanto más alto el culo, más baja la cabeza".
+    Zenbat buru hainbat aburu.
+        Traducción: "(Hay) tantas conjeturas/opiniones como cabezas".
+        Equivalente en castellano:"Las opiniones son como el culo, cada uno tiene el suyo".
+    Zer egingo diagu ba? Hil arte bizi.
+        Traducción: "¿Que haremos pues? Vivir hasta morir."
+    Zozoak beleari, ipurbeltz.
+        Traducción: "El mirlo (le llama) al cuervo culonegro."
+        Equivalente castellano: "Dijo la sartén a la caldera: «Quítate allá culinegra»."
+    Zugarramurdi: sorgin herri.
+        Traducción: "Zugarramurdi: pueblo de brujas."
