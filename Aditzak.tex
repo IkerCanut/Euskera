@@ -1,6 +1,7 @@
 \documentclass[11pt, a4paper]{article}
-\usepackage[left=1cm, right=.5cm, top=2cm, bottom=1cm]{geometry}
+\usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
 \usepackage{multirow}
+\usepackage{longtable}
 \begin{document}
 \author{Iker M. Canut}
 \date{}
@@ -10,163 +11,314 @@
 
 \newpage
 
-\begin{table}[h]
-	\centering
-	\begin{tabular}{cc}
-		\hline
-		                   \textbf{Adibideak}                    &                       \textbf{Ejemplos}                        \\ \hline
-		Oso polita da lehen abestu duzun abestu hori, norena da? & Es muy bonita esa canción que has cantado antes, ¿de quién es? \\ \hline
-		                         Afaldu                          &                             Cenar                              \\ \hline
-		                         Agertu                          &                            Aparecer                            \\ \hline
-		                         Agurtu                          &                            Saludar                             \\ \hline
-		                        Altxatu                          &                    Levantarse/Incorporarse                     \\ \hline
-		                   Amets Egin/Amestu                     &                             Soñar                              \\ \hline
-		                       Amore Eman                        &                             Ceder                              \\ \hline
-		                        Antolatu                         &                           Organizar                            \\ \hline
-		                  Arradatu / Arrasatu                    &                        Afeitar El Pelo                         \\ \hline
-		                         Atera                           &                             Sacar                              \\ \hline
-		                         Atxiki                          &                       Adherirse/Pegarse                        \\ \hline
-		                  Altxorra AURKITU dut                   &                    He encontrado el tesoro                     \\ \hline
-		                       Balio Izan                        &                             Valer                              \\ \hline
-		                        Banandu                          &                            Separar                             \\ \hline
-		                       Barneratu                         &                      Introducir/Adentrar                       \\ \hline
-		                       Barre Egin                        &                             Reirse                             \\ \hline
-		                        Bazkaldu                         &                      Almorzar Al Mediodia                      \\ \hline
-		                        Begiratu                         &                             Mirar                              \\ \hline
-		                         Berotu                          &                            Calentar                            \\ \hline
-		                    Berriketan Egin                      &                            Charlar                             \\ \hline
-		                          Bete                           &                             Llenar                             \\ \hline
-		                        Bidaiatu                         &                             Viajar                             \\ \hline
-		                         Bidali                          &                             Enviar                             \\ \hline
-		                        Bihurtu                          &                           Convertir                            \\ \hline
-		                         Bildu                           &                         Reunir/Juntar                          \\ \hline
-		                       Birziklatu                        &                            Reciclar                            \\ \hline
-		                      Bizarra Egin                       &                        Afeitar La Barba                        \\ \hline
-		                        Biziatu                          &                             Viciar                             \\ \hline
-		                         Bukatu                          &                           Finalizar                            \\ \hline
-		                        Bururatu                         &                           Ocurrirse                            \\ \hline
-		                        Dantzatu                         &                             Bailar                             \\ \hline
-		                 Depilatu / Ilea Kendu                   &                           Depilarse                            \\ \hline
-		                        Dutxatu                          &                            Ducharse                            \\ \hline
-		                          Edan                           &                             Beber                              \\ \hline
-		                       Egiaztatu                         &                           Comprobar                            \\ \hline
-		                          Egin                           &                         Realizar/Hacer                         \\ \hline
-		                          Egon                           &                             Estar                              \\ \hline
-		                         Egosi                           &                             Cocer                              \\ \hline
-		                         Ekarri                          &                             Traer                              \\ \hline
-		                    Ekortu/Erraztatu                     &                            Escobar                             \\ \hline
-		                          Eman                           &                          Dar/Entregar                          \\ \hline
-		                         Entzun                          &                            Escuchar                            \\ \hline
-		                        Erabili                          &                          Usar/Emplear                          \\ \hline
-		                         Eraiki                          &                           Construir                            \\ \hline
-		                         Erail                           &                            Asesinar                            \\ \hline
-		                         Eraman                          &                             Llevar                             \\ \hline
-		                    Orain ERORI zara                     &                       Ahora te has caido                       \\ \hline
-		                 Ordenagailua EROSI du                   &                    Ha comprado el ordenador                    \\ \hline
-		                          Erre                           &                             Quemar                             \\ \hline
-		               Erretratatu/Argazkia Atera                &                      Retratar/Fotografiar                      \\ \hline
-		                Tontakeria bat ESAN duzu                 &                     Has dicho una tonteria                     \\ \hline
-		                         Eskatu                          &                        Solicitar/Pedir                         \\ \hline
-		                    Esnatu/Iratzarri                     &                           Despertar                            \\ \hline
-		                  Lagunak ETORRI dira                    &                     Han venido los amigos                      \\ \hline
-		                     Etzan/Oheratu                       &                            Acostar                             \\ \hline
-		                         Eutsi                           &                            Resistir                            \\ \hline
-		                        Ezagutu                          &                            Conocer                             \\ \hline
-		                       Ezin Izan                         &                            No Poder                            \\ \hline
-		                      Eztabaidatu                        &                            Discutir                            \\ \hline
-		                      Fotokopiatu                        &                           Fotocopiar                           \\ \hline
-		                         Galdu                           &                             Perder                             \\ \hline
-		                    Garbitu/Txukundu                     &                         Limpiar/Asear                          \\ \hline
-		                         Gehitu                          &                         Agregar/Sumar                          \\ \hline
-		                         Gidatu                          &                            Conducir                            \\ \hline
-		                        Gogoratu                         &                       Recordar/Acordarse                       \\ \hline
-		                       Gonbidatu                         &                            Invitar                             \\ \hline
-		                        Gosaldu                          &                           Desayunar                            \\ \hline
-		                         Gozatu                          &                           Disfrutar                            \\ \hline
-		                      Haizeberritu                       &                            Ventilar                            \\ \hline
-		                     Harnasa Hartu                       &                            Respirar                            \\ \hline
-		                       Harrapatu                         &                        Agarrar/Sostener                        \\ \hline
-		                     Harrikoa Egin                       &                             Fregar                             \\ \hline
-		                        Harrotu                          &                    Esponjarse/Ponerse Chulo                    \\ \hline
-		                         Hartu                           &                             Tomar                              \\ \hline
-		                       Haserretu                         &                           Enfadarse                            \\ \hline
-		                        Hil Egin                         &                             Morir                              \\ \hline
-		                       Hitz Egin                         &                             Hablar                             \\ \hline
-		               Hondeatu/Induskatu/Zulotu                 &                             Cavar                              \\ \hline
-		                         Hoztu                           &                            Enfriar                             \\ \hline
-		                         Hustu                           &                             Vaciar                             \\ \hline
-		                   Hemendik IBILI zen                    &                        Anduvo por aqui                         \\ \hline
-		                         Idatzi                          &                            Escribir                            \\ \hline
-		                        Igurtzi                          &                             Frotar                             \\ \hline
-		                         Ikasi                           &                            Estudiar                            \\ \hline
-		                         Ikusi                           &                              Ver                               \\ \hline
-		                         Ikutu                           &                             Tocar                              \\ \hline
-		                        Iltzatu                          &                             Clavar                             \\ \hline
-		                         Ipini                           &                             Poner                              \\ \hline
-		                        Irabiatu                         &                         Batir/Remover                          \\ \hline
-		                         Irakin                          &                             Hervir                             \\ \hline
-		                        Irakurri                         &                              Leer                              \\ \hline
-		                         Irauli                          &                             Volcar                             \\ \hline
-		                         Ireki                           &                             Abrir                              \\ \hline
-		                   Irristatu/Patinatu                    &                            Patinar                             \\ \hline
-		                        Iruditu                          &                            Parecer                             \\ \hline
-		                          Itxi                           &                             Cerrar                             \\ \hline
-		                         Itzali                          &                             Apagar                             \\ \hline
-		                         Itzuli                          &                   Regresar/Devolver/Traducir                   \\ \hline
-		                     Hemen IZAN da                       &                          Ha sido aqui                          \\ \hline
-		                          Jan                            &                             Comer                              \\ \hline
-		                         Jantzi                          &                             Vestir                             \\ \hline
-		                        Jarraitu                         &                             Seguir                             \\ \hline
-		                      Jarri/Ipini                        &                             Poner                              \\ \hline
-		                      Jaso/Altxatu                       &                            Levantar                            \\ \hline
-		                           Jo                            &                    Pegar/Tocar Instrumento                     \\ \hline
-		                    Etxera JOAN naiz                     &                         He ido a casa                          \\ \hline
-		                        Jolastu                          &                             Jugar                              \\ \hline
-		                       Konfinatu                         &                            Confinar                            \\ \hline
-		                        Konpondu                         &                            Arreglar                            \\ \hline
-		                      Korrika Egin                       &                             Correr                             \\ \hline
-		                        Kozinatu                         &                            Cocinar                             \\ \hline
-		                        Kudeatu                          &                           Gestionar                            \\ \hline
-		                        Laberatu                         &                            Hornear                             \\ \hline
-		                          Laga                           &                             Dejar                              \\ \hline
-		                        Lagundu                          &                             Ayudar                             \\ \hline
-		                        Lan Egin                         &                            Trabajar                            \\ \hline
-		                         Landu                           &                    Cultivar/Labrar/Trabajar                    \\ \hline
-		                 Larrua Jo/Txortan Egin                  &                             Follar                             \\ \hline
-		                        Lasaitu                          &                            Relajar                             \\ \hline
-		                        Lo Egin                          &                             Dormir                             \\ \hline
-		                        Maiseatu                         &                            Criticar                            \\ \hline
-		                        Maitatu                          &                              Amar                              \\ \hline
-		                        Makurtu                          &                           Inclinarse                           \\ \hline
-		                        Margotu                          &                             Pintar                             \\ \hline
-		                        Marraztu                         &                            Dibujar                             \\ \hline
-		                        Moldatu                          &                           Arreglarse                           \\ \hline
-		                         Mugitu                          &                             Mover                              \\ \hline
-		                        Musukatu                         &                      Besar Reiteradamente                      \\ \hline
-		                        Nahastu                          &                            Mezclar                             \\ \hline
-		                       Nahi Izan                         &                             Querer                             \\ \hline
-		                       Negar Egin                        &                             Llorar                             \\ \hline
-		                          Ondu                           &                        Mejorar/Madurar                         \\ \hline
-		                        Pentsatu                         &                             Pensar                             \\ \hline
-		                         Piztu                           &                            Encender                            \\ \hline
-		                        Prestatu                         &                        Preparar/Guisar                         \\ \hline
-		                  Txakurra SALDU zuen                    &                        Vendió el perro                         \\ \hline
-		                       Salto Egin                        &                             Saltar                             \\ \hline
-		                         Sartu                           &                             Entrar                             \\ \hline
-		                        Suertatu                         &                            Ocurrir                             \\ \hline
-		               Sukaldean Egin / Kozinatu                 &                            Cocinar                             \\ \hline
-		                        Sustatu                          &                          Promocionar                           \\ \hline
-		                        Txeratu                          &                     Acariciar/Hacer Mimos                      \\ \hline
-		                        Txikitu                          &                        Partir/Triturar                         \\ \hline
-		                       Uda Igaro                         &                            Veranear                            \\ \hline
-		                        Ureztatu                         &                             Regar                              \\ \hline
-		                        Usaindu                          &                              Oler                              \\ \hline
-		                          Utzi                           &                         Cancelar/Dejar                         \\ \hline
-		                         Zaindu                          &                         Cuidar/Vigilar                         \\ \hline
-		                         Zoratu                          &                           Enloquecer                           \\ \hline
-		                        Zorroztu                         &                             Afilar                             \\ \hline
-		                         Zuritu                          &                        Blanquear/Pelar                         \\ \hline
-		                        Zokoratu                         &                           Arrinconar                           \\ \hline
-	\end{tabular}
-\end{table}
+\centering
+\begin{longtable}{cc} 
+\hline
+ \textbf{Adibideak}        & \textbf{Ejemplos}           \\ 
+\hline
+Abestu                     & Cantar                      \\ 
+\hline
+Afaldu                     & Cenar                       \\ 
+\hline
+Agertu                     & Aparecer                    \\ 
+\hline
+Agurtu                     & Saludar                     \\ 
+\hline
+Altxatu                    & Levantarse/Incorporarse     \\ 
+\hline
+Amets Egin/Amestu          & Soñar                       \\ 
+\hline
+Amore Eman                 & Ceder                       \\ 
+\hline
+Antolatu                   & Organizar                   \\ 
+\hline
+Arradatu / Arrasatu        & Afeitar El Pelo             \\ 
+\hline
+Atera                      & Sacar                       \\ 
+\hline
+Atxiki                     & Adherirse/Pegarse           \\ 
+\hline
+Aurkitu                    & Encontrar                   \\ 
+\hline
+Balio Izan                 & Valer                       \\ 
+\hline
+Banandu                    & Separar                     \\ 
+\hline
+Barneratu                  & Introducir/Adentrar         \\ 
+\hline
+Barre Egin                 & Reirse                      \\ 
+\hline
+Bazkaldu                   & Almorzar Al Mediodia        \\ 
+\hline
+Begiratu                   & Mirar                       \\ 
+\hline
+Berotu                     & Calentar                    \\ 
+\hline
+Berriketan Egin            & Charlar                     \\ 
+\hline
+Bete                       & Llenar                      \\ 
+\hline
+Bidaiatu                   & Viajar                      \\ 
+\hline
+Bidali                     & Enviar                      \\ 
+\hline
+Bihurtu                    & Convertir                   \\ 
+\hline
+Bildu                      & Reunir/Juntar               \\ 
+\hline
+Birziklatu                 & Reciclar                    \\ 
+\hline
+Bizarra Egin               & Afeitar La Barba            \\ 
+\hline
+Biziatu                    & Viciar                      \\ 
+\hline
+Bukatu                     & Finalizar                   \\ 
+\hline
+Bururatu                   & Ocurrirse                   \\ 
+\hline
+Dantzatu                   & Bailar                      \\ 
+\hline
+Depilatu / Ilea Kendu      & Depilarse                   \\ 
+\hline
+Dutxatu                    & Ducharse                    \\ 
+\hline
+Edan                       & Beber                       \\ 
+\hline
+Egiaztatu                  & Comprobar                   \\ 
+\hline
+Egin                       & Realizar/Hacer              \\ 
+\hline
+Egon                       & Estar                       \\ 
+\hline
+Egosi                      & Cocer                       \\ 
+\hline
+Ekarri                     & Traer                       \\ 
+\hline
+Ekortu/Erraztatu           & Escobar                     \\ 
+\hline
+Eman                       & Dar/Entregar                \\ 
+\hline
+Entzun                     & Escuchar                    \\ 
+\hline
+Erabili                    & Usar/Emplear                \\ 
+\hline
+Eraiki                     & Construir                   \\ 
+\hline
+Erail                      & Asesinar                    \\ 
+\hline
+Eraman                     & Llevar                      \\ 
+\hline
+Erori                      & Caer                        \\ 
+\hline
+Erosi                      & Comprar                     \\ 
+\hline
+Erre                       & Quemar                      \\ 
+\hline
+Erretratatu/Argazkia Atera & Retratar/Fotografiar        \\ 
+\hline
+Esan                       & Decir                       \\ 
+\hline
+Eskatu                     & Solicitar/Pedir             \\ 
+\hline
+Esnatu/Iratzarri           & Despertar                   \\ 
+\hline
+Etorri                     & Venir                       \\ 
+\hline
+Etzan/Oheratu              & Acostar                     \\ 
+\hline
+Eutsi                      & Resistir                    \\ 
+\hline
+Ezagutu                    & Conocer                     \\ 
+\hline
+Ezin Izan                  & No Poder                    \\ 
+\hline
+Eztabaidatu                & Discutir                    \\ 
+\hline
+Fotokopiatu                & Fotocopiar                  \\ 
+\hline
+Galdu                      & Perder                      \\ 
+\hline
+Garbitu/Txukundu           & Limpiar/Asear               \\ 
+\hline
+Gehitu                     & Agregar/Sumar               \\ 
+\hline
+Gidatu                     & Conducir                    \\ 
+\hline
+Gogoratu                   & Recordar/Acordarse          \\ 
+\hline
+Gonbidatu                  & Invitar                     \\ 
+\hline
+Gosaldu                    & Desayunar                   \\ 
+\hline
+Gozatu                     & Disfrutar                   \\ 
+\hline
+Haizeberritu               & Ventilar                    \\ 
+\hline
+Harnasa Hartu              & Respirar                    \\ 
+\hline
+Harrapatu                  & Agarrar/Sostener            \\ 
+\hline
+Harrikoa Egin              & Fregar                      \\ 
+\hline
+Harrotu                    & Esponjarse/Ponerse Chulo    \\ 
+\hline
+Hartu                      & Tomar                       \\ 
+\hline
+Haserretu                  & Enfadarse                   \\ 
+\hline
+Hil Egin                   & Morir                       \\ 
+\hline
+Hitz Egin                  & Hablar                      \\ 
+\hline
+Hondeatu/Induskatu/Zulotu  & Cavar                       \\ 
+\hline
+Hoztu                      & Enfriar                     \\ 
+\hline
+Hustu                      & Vaciar                      \\ 
+\hline
+Ibili                      & Andar                       \\ 
+\hline
+Idatzi                     & Escribir                    \\ 
+\hline
+Igurtzi                    & Frotar                      \\ 
+\hline
+Ikasi                      & Estudiar                    \\ 
+\hline
+Ikusi                      & Ver                         \\ 
+\hline
+Ikutu                      & Tocar                       \\ 
+\hline
+Iltzatu                    & Clavar                      \\ 
+\hline
+Ipini                      & Poner                       \\ 
+\hline
+Irabiatu                   & Batir/Remover               \\ 
+\hline
+Irakin                     & Hervir                      \\ 
+\hline
+Irakurri                   & Leer                        \\ 
+\hline
+Irauli                     & Volcar                      \\ 
+\hline
+Ireki                      & Abrir                       \\ 
+\hline
+Irristatu/Patinatu         & Patinar                     \\ 
+\hline
+Iruditu                    & Parecer                     \\ 
+\hline
+Itxi                       & Cerrar                      \\ 
+\hline
+Itzali                     & Apagar                      \\ 
+\hline
+Itzuli                     & Regresar/Devolver/Traducir  \\ 
+\hline
+Izan                       & Ser                         \\ 
+\hline
+Jan                        & Comer                       \\ 
+\hline
+Jantzi                     & Vestir                      \\ 
+\hline
+Jarraitu                   & Seguir                      \\ 
+\hline
+Jarri/Ipini                & Poner                       \\ 
+\hline
+Jaso/Altxatu               & Levantar                    \\ 
+\hline
+Jo                         & Pegar/Tocar Instrumento     \\ 
+\hline
+Joan                       & Ir                          \\ 
+\hline
+Jolastu                    & Jugar                       \\ 
+\hline
+Konfinatu                  & Confinar                    \\ 
+\hline
+Konpondu                   & Arreglar                    \\ 
+\hline
+Korrika Egin               & Correr                      \\ 
+\hline
+Kozinatu                   & Cocinar                     \\ 
+\hline
+Kudeatu                    & Gestionar                   \\ 
+\hline
+Laberatu                   & Hornear                     \\ 
+\hline
+Laga                       & Dejar                       \\ 
+\hline
+Lagundu                    & Ayudar                      \\ 
+\hline
+Lan Egin                   & Trabajar                    \\ 
+\hline
+Landu                      & Cultivar/Labrar/Trabajar    \\ 
+\hline
+Larrua Jo/Txortan Egin     & Follar                      \\ 
+\hline
+Lasaitu                    & Relajar                     \\ 
+\hline
+Lo Egin                    & Dormir                      \\ 
+\hline
+Maiseatu                   & Criticar                    \\ 
+\hline
+Maitatu                    & Amar                        \\ 
+\hline
+Makurtu                    & Inclinarse                  \\ 
+\hline
+Margotu                    & Pintar                      \\ 
+\hline
+Marraztu                   & Dibujar                     \\ 
+\hline
+Moldatu                    & Arreglarse                  \\ 
+\hline
+Mugitu                     & Mover                       \\ 
+\hline
+Musukatu                   & Besar Reiteradamente        \\ 
+\hline
+Nahastu                    & Mezclar                     \\ 
+\hline
+Nahi Izan                  & Querer                      \\ 
+\hline
+Negar Egin                 & Llorar                      \\ 
+\hline
+Ondu                       & Mejorar/Madurar             \\ 
+\hline
+Pentsatu                   & Pensar                      \\ 
+\hline
+Piztu                      & Encender                    \\ 
+\hline
+Prestatu                   & Preparar/Guisar             \\ 
+\hline
+Saldu                      & Vender                      \\ 
+\hline
+Salto Egin                 & Saltar                      \\ 
+\hline
+Sartu                      & Entrar                      \\ 
+\hline
+Suertatu                   & Ocurrir                     \\ 
+\hline
+Sukaldean Egin / Kozinatu  & Cocinar                     \\ 
+\hline
+Sustatu                    & Promocionar                 \\ 
+\hline
+Txeratu                    & Acariciar/Hacer Mimos       \\ 
+\hline
+Txikitu                    & Partir/Triturar             \\ 
+\hline
+Uda Igaro                  & Veranear                    \\ 
+\hline
+Ureztatu                   & Regar                       \\ 
+\hline
+Usaindu                    & Oler                        \\ 
+\hline
+Utzi                       & Cancelar/Dejar              \\ 
+\hline
+Zaindu                     & Cuidar/Vigilar              \\ 
+\hline
+Zoratu                     & Enloquecer                  \\ 
+\hline
+Zorroztu                   & Afilar                      \\ 
+\hline
+Zuritu                     & Blanquear/Pelar             \\ 
+\hline
+Zokoratu                   & Arrinconar                  \\
+\hline
+\end{longtable}
 \end{document}
