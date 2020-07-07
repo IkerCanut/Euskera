@@ -20,13 +20,11 @@
 \setlength{\tabcolsep}{10pt} % Default value: 6pt
 \renewcommand{\arraystretch}{.88} % Default value: 1
 
-\newcolumntype{?}[1]{!{\vrule width #1}}
-
 \begin{table}
-\begin{tabular}{?{1mm}c|c?{1mm}c?{1mm}ccccccccc?{1mm}c|c|cccccccc?{1mm}ccccccc?{1mm}} 
-\Xhline{4\arrayrulewidth}
-                              &                                  & {\large NOR}          & \multicolumn{9}{c?{1mm}}{{\large  NOR {\color{blue}NORI} }}                    & \multicolumn{10}{c?{1mm}}{{\large NOR NORK}}                                                  & \multicolumn{7}{c?{1mm}}{ {\large NOR NORI NORK }}               \\ 
-\Xhline{4\arrayrulewidth}
+\begin{tabular}{|c|c|c|ccccccccc|c|c|cccccccc|ccccccc|} 
+\hline
+                              &                                  & NOR          & \multicolumn{9}{c|}{NOR {\color{blue}NORI}}                    & \multicolumn{10}{c|}{ NOR NORK}                                                  & \multicolumn{7}{c|}{ NOR NORI NORK}               \\ 
+\hline
 \multirow{14}{*}{ \begin{sideways} INDICATIVO \end{sideways}}  & \multirow{7}{*}{\begin{sideways} PRESENTE \end{sideways}}        
                               &                                    naiz         &    & NA  & tzai &     &    & {\color{blue}T}    &    &    &    & \multicolumn{1}{c}{} &               &    & NA  &    &    & u  &     & T    &    &    & D   & i(zki)    & T(da)     &    & T   &     \\
                               &                                  & haiz         &    & HA  & tzai &     &    & {\color{blue}K/N}  &    &    &    & \multicolumn{1}{c}{} &               &    & HA  &    &    & u  &     & K/N  &    &    & D   & i(zki)    & K/N(a/na) &    & K/N &     \\
@@ -102,13 +100,13 @@
                               &                                  & litezke      &    & LE  & ki   & zki &    & E    & ke &    &    & lezakete             & litzakete     &    & ( ) &    &    &    &     & TE   &    &    & L   & ieza(zki) & IE        & ke & te  &     \\ 
 \Xhline{4\arrayrulewidth}
 \multirow{14}{*}{\begin{sideways} SUBJUNTIVO \end{sideways}}  & \multirow{7}{*}{\begin{sideways} PRESENTE \end{sideways}}        
-                              &                                    nadin        &    & NA  & ki   &     &    & DA   &    &    & n  & \multicolumn{1}{c}{} &               &    & NA  &    & za &    &     & DA   & n  &    & D   & ieza(zki) & DA        &    &     & n   \\
-                              &                                  & hadin        &    & HA  & ki   &     &    & A/NA &    &    & n  & \multicolumn{1}{c}{} &               &    & HA  &    & za &    &     & A/NA & n  &    & D   & ieza(zki) & A/NA      &    &     & n   \\
-                              &                                  & dadin        &    & DA  & ki   &     &    & O    &    &    & n  & \multicolumn{1}{c}{} &               &    & DE  &    & za &    &     & -    & n  &    & D   & ieza(zki) & IO        &    &     & n   \\
-                              &                                  & gaitezen     &    & GA  & ki   & zki &    & GU   &    &    & n  & \multicolumn{1}{c}{} &               &    & GA  & it & za &    &     & GU   & n  &    & D   & ieza(zki) & GU        &    &     & n   \\
-                              &                                  & zaitezen     &    & ZA  & ki   & zki &    & ZU   &    &    & n  & \multicolumn{1}{c}{} &               &    & ZA  & it & za &    &     & ZU   & n  &    & D   & ieza(zki) & ZU        &    &     & n   \\
-                              &                                  & zaitezten    &    & ZA  & ki   & zki &    & ZUE  &    & te & n  & \multicolumn{1}{c}{} &               &    & ZA  & it & za &    & te  & ZUE  & n  &    & D   & ieza(zki) & ZUE       &    &     & n   \\
-                              &                                  & daitezen     &    & DA  & ki   & zki &    & E    &    &    & n  & \multicolumn{1}{c}{} &               &    & D   & it & za &    &     & TE   & n  &    & D   & ieza(zki) & TE        &    &     & n   \\ 
+                              &                                    nadin        &    & NA  & ki   &     &    & DA   &    &    & n  &                      &               &    & NA  &    & za &    &     & DA   & n  &    & D   & ieza(zki) & DA        &    &     & n   \\
+                              &                                  & hadin        &    & HA  & ki   &     &    & A/NA &    &    & n  &                      &               &    & HA  &    & za &    &     & A/NA & n  &    & D   & ieza(zki) & A/NA      &    &     & n   \\
+                              &                                  & dadin        &    & DA  & ki   &     &    & O    &    &    & n  &                      &               &    & DE  &    & za &    &     & -    & n  &    & D   & ieza(zki) & IO        &    &     & n   \\
+                              &                                  & gaitezen     &    & GA  & ki   & zki &    & GU   &    &    & n  &                      &               &    & GA  & it & za &    &     & GU   & n  &    & D   & ieza(zki) & GU        &    &     & n   \\
+                              &                                  & zaitezen     &    & ZA  & ki   & zki &    & ZU   &    &    & n  &                      &               &    & ZA  & it & za &    &     & ZU   & n  &    & D   & ieza(zki) & ZU        &    &     & n   \\
+                              &                                  & zaitezten    &    & ZA  & ki   & zki &    & ZUE  &    & te & n  &                      &               &    & ZA  & it & za &    & te  & ZUE  & n  &    & D   & ieza(zki) & ZUE       &    &     & n   \\
+                              &                                  & daitezen     &    & DA  & ki   & zki &    & E    &    &    & n  &                      &               &    & D   & it & za &    &     & TE   & n  &    & D   & ieza(zki) & TE        &    &     & n   \\ 
 \cline{2-29}
                               & \multirow{7}{*}{\begin{sideways} PASADO \end{sideways}}          
                               &                                    nendin       &    & NEN & ki   &     &    & DA   &    &    & n  & nezan                & nitzan        &    & NIN & t  & za &    &     & DA   & n  &    & N   & ieza(zki) & DA        &    &     & n   \\
@@ -119,14 +117,14 @@
                               &                                  & zintezten    &    & ZEN & ki   & zki &    & ZUE  &    & te & n  & zenezaten            & zenitzaten    &    & ZIN & t  & za &    & te  & ZUE  & n  &    & ZEN & ieza(zki) & ZUE       &    & te  & n   \\
                               &                                  & zitezen      &    & LE  & ki   & zki &    & E    &    &    & n  & zezaten              & zitzaten      &    & ( ) &    &    &    &     & TE   & n  &    & Z   & ieza(zki) & IE        &    & te  & n   \\ 
 \Xhline{4\arrayrulewidth}
-\multicolumn{2}{?{1mm}c?{1mm}}{\multirow{7}{*}{\begin{sideways} IMPERATIVO \end{sideways}}}                
-                                                                           & ( )          &    & ( ) &      &     &    & T    &    &    &    & \multicolumn{1}{c}{} &               &    & NA  &    & za &    &     & ( )  &    &    & (B) & ieza(zki) & T         &    & ( ) &     \\
-\multicolumn{2}{?{1mm}c?{1mm}}{}                                           & hadi         &    & HA  & ki   &     &    & K/N  &    &    &    & \multicolumn{1}{c}{} &               &    &     &    &    &    &     & K/N  &    &    & (B) & ieza(zki) & K/N       &    & K/N &     \\
-\multicolumn{2}{?{1mm}c?{1mm}}{}                                           & bedi         &    & BE  & ki   &     &    & O    &    &    &    & \multicolumn{1}{c}{} &               &    & BE  &    & za &    &     & -    &    &    & (B) & ieza(zki) & IO        &    & -   &     \\
-\multicolumn{2}{?{1mm}c?{1mm}}{}                                           & ( )          &    & ( ) &      &     &    & GU   &    &    &    & \multicolumn{1}{c}{} &               &    & GA  & it & za &    &     & ( )  &    &    & (B) & ieza(zki) & GU        &    & ( ) &     \\
-\multicolumn{2}{?{1mm}c?{1mm}}{}                                           & zaitez       &    & ZA  & ki   & zki &    & ZU   &    &    &    & \multicolumn{1}{c}{} &               &    &     &    &    &    &     & ZU   &    &    & (B) & ieza(zki) & ZU        &    & ZU  &     \\
-\multicolumn{2}{?{1mm}c?{1mm}}{}                                           & zaitezte     &    & ZA  & ki   & zki &    & ZUE  &    & te &    & \multicolumn{1}{c}{} &               &    &     &    &    &    &     & ZUE  &    &    & (B) & ieza(zki) & ZUE       &    & ZUE &     \\
-\multicolumn{2}{?{1mm}c?{1mm}}{}                                           & bitez        &    & BE  & ki   & zki &    & E    &    &    &    & \multicolumn{1}{c}{} &               &    & B   & it & za &    &     & TE   &    &    & (B) & ieza(zki) & IE        &    & TE  &     \\
+\multicolumn{2}{|c|}{\multirow{7}{*}{\begin{sideways} IMPERATIVO \end{sideways}}}                
+                                                                 & ( )          &    & ( ) &      &     &    & T    &    &    &    & \multicolumn{1}{c}{} &               &    & NA  &    & za &    &     & ( )  &    &    & (B) & ieza(zki) & T         &    & ( ) &     \\
+\multicolumn{2}{|c|}{}                                           & hadi         &    & HA  & ki   &     &    & K/N  &    &    &    & \multicolumn{1}{c}{} &               &    &     &    &    &    &     & K/N  &    &    & (B) & ieza(zki) & K/N       &    & K/N &     \\
+\multicolumn{2}{|c|}{}                                           & bedi         &    & BE  & ki   &     &    & O    &    &    &    & \multicolumn{1}{c}{} &               &    & BE  &    & za &    &     & -    &    &    & (B) & ieza(zki) & IO        &    & -   &     \\
+\multicolumn{2}{|c|}{}                                           & ( )          &    & ( ) &      &     &    & GU   &    &    &    & \multicolumn{1}{c}{} &               &    & GA  & it & za &    &     & ( )  &    &    & (B) & ieza(zki) & GU        &    & ( ) &     \\
+\multicolumn{2}{|c|}{}                                           & zaitez       &    & ZA  & ki   & zki &    & ZU   &    &    &    & \multicolumn{1}{c}{} &               &    &     &    &    &    &     & ZU   &    &    & (B) & ieza(zki) & ZU        &    & ZU  &     \\
+\multicolumn{2}{|c|}{}                                           & zaitezte     &    & ZA  & ki   & zki &    & ZUE  &    & te &    & \multicolumn{1}{c}{} &               &    &     &    &    &    &     & ZUE  &    &    & (B) & ieza(zki) & ZUE       &    & ZUE &     \\
+\multicolumn{2}{|c|}{}                                           & bitez        &    & BE  & ki   & zki &    & E    &    &    &    & \multicolumn{1}{c}{} &               &    & B   & it & za &    &     & TE   &    &    & (B) & ieza(zki) & IE        &    & TE  &     \\
 \Xhline{4\arrayrulewidth}
 \end{tabular}
 \end{table}
